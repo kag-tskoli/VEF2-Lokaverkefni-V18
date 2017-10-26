@@ -15,9 +15,13 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 * Tæknileg útfærsla
   *  Útskýrið eigin lausnir ss virkni í forritun og kvikun. 
 * Prófanir - https://validator.w3.org/
-  *  Er kóðinn í lagi? Er vefurinn villulaus?  (sjá Inspector console, firebug, chrome dev)
-* Viðhald 
-  *  Hvað má gera betur og hver geta verið næstu skref með vefinn (ókláruð virkni, endurbætur o.s.frv.).
+  *  Er kóðinn í lagi? Er vefurinn villulaus?  (sjá Inspector console, firebug, chrome dev).
+* Dagbók
+  * Notið Wiki til að skrá vinnuferlið, hvernig gengur frá byrjun til enda.
+* Viðhald (í dagbók)
+  *  Í lok verkefnisins á að útskýra hvað má gera betur og hver geta verið næstu skref með vefinn (ókláruð virkni, endurbætur o.s.frv.).
+* Kynning á hóp
+  * Setjið vefsíðu á GitHub geymsluna sem á að vera kynning á hópnum og verkefninu í stuttu máli. Veljið merki fyrir hópinn og setjið inn myndir af ykkur. Sjá dæmi hér: .........í vinnslu.
 
 #### Ég mæli með því að nota GitHub "Project" bæði í hugmynda- og skipulagsvinnuna.
 #### Wiki er tilvalið til að halda dagbók og skrá inn framvindu verkefnisins. Einnig á að skrá allar heimildir í sér Wiki skrá.
@@ -40,10 +44,13 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
   *  Greinargerð (sjá lýsingu hér að ofan)
   *  Verkáætlun (GitHub, project - milestones)
   *  Efnisöflun og skipulag (layout).  
-  *  Heimildaskrá og dagbók (Wiki)
+  *  Dagbók
+  *  Viðhald (lýsing í dagbók)
+  *  Heimildaskrá (Wiki)
+  *  Kynning á hóp (vefsíða á GitHub)
 
 
-* **10% 	Afurð - Tæknilegar lausnir**
+* **10%   Afurð - Tæknilegar lausnir**
   * Útlit (layout) vel útfært með viðmiðum (breakpoints) 
   * Sveigjanlegar myndir (responsive)
   * Samræmi í letur og litanotkun. 
@@ -53,7 +60,7 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 
 ## Verkefnaskil
   * Afurð/vef er skilað á http://tsuts.tskoli.is/2t/þín-KT/lokaverkefni
-  * Afurð er metin útfrá verklýsingu og vinnuframlagi í Git/GitHub.
+  * **Afurð er metin útfrá verklýsingu og vinnuframlagi í Git/GitHub.**
   * Nemendur nota Git hvert skipti sem unnið er í hópverkefninu. 
   * Öllum vinnugögnum  er skilað í GitHub geymslu (repository)
     1. Greinargerð um verkefnið
@@ -61,7 +68,10 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
     3. Textavinnsla
     4. Skipulag (layout) 
     5. Vefurinn með öllum kóða ss. SCSS/CSS, js og php kóða
-    6. Heimildaskrá
+    6. Dagbók
+    7. Heimildaskrá í Wiki
+    8. Kynning á hóp í Github vefsíðu
+
 
 #### Tenglum (link) á vef og geymslu er skilað í INNU.  
 #### Athugið að hópverkefnið er lykilmatsþáttur. 
