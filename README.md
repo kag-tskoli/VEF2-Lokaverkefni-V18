@@ -10,8 +10,12 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 * Gerið grein fyrir eftirtöldum atriðum:
   * Um hvað er vefurinn?   
   * Hver er markhópurinn og markmið með gerð vefsins.
+  * Setjið greinargerðina í README.md skrána.
+* Hubmynda- og skipulagsvinna
+  * Skráið allar hugmyndir inn í _"Project"_ ásamt verkefnaskipulagi.
 * Efnisöflun
-  *  Skoðið hvað aðrir hafa gert, safnið saman fyrirmyndum ss tenglum á áhugaverðar vefsíður.  Það má nota texta og myndir af öðrum vefsíðum og gerið grein fyrir hvaðan efnið er tilkomið í heimildaskrá.
+  *  Skoðið hvað aðrir hafa gert, safnið saman fyrirmyndum ss tenglum á áhugaverðar vefsíður.  Það má nota texta og myndir af öðrum vefsíðum 
+  *  Gerið grein fyrir hvaðan efnið er tilkomið í heimildaskrá. Notið _WIKI_ skrá til þess.
 * Tæknileg útfærsla
   *  Útskýrið eigin lausnir ss virkni í forritun og kvikun. 
 * Prófanir - https://validator.w3.org/
