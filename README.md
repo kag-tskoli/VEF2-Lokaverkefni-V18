@@ -48,7 +48,6 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
   *  Greinargerð (í Readme.md)
   *  Verkáætlun (Project - milestones)
   *  Efnisöflun og skipulag (Project).  
-  *  Kynning á hóp (vefsíða á GitHub)
   *  Dagbók (Wiki)
   *  Viðhald (lýsing í dagbók)
   *  Heimildaskrá (Wiki)
