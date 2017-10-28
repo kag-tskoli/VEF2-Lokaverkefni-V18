@@ -10,7 +10,7 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 * Gerið grein fyrir eftirtöldum atriðum:
   * Um hvað er vefurinn?   
   * Hver er markhópurinn og markmið með gerð vefsins.
-  * Setjið greinargerðina í README.md skrána.
+  * Setjið greinargerðina í _README.md_ skrána.
 * Hubmynda- og skipulagsvinna
   * Skráið allar hugmyndir inn í _"Project"_ ásamt verkefnaskipulagi.
 * Efnisöflun
@@ -21,7 +21,7 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 * Prófanir - https://validator.w3.org/
   *  Er kóðinn í lagi? Er vefurinn villulaus?  (sjá Inspector console, firebug, chrome dev).
 * Dagbók
-  * Notið Wiki til að skrá vinnuferlið, hvernig gengur frá byrjun til enda.
+  * Notið _Wiki_ til að skrá vinnuferlið, hvernig gengur frá byrjun til enda.
 * Viðhald (í dagbók)
   *  Í lok verkefnisins á að útskýra hvað má gera betur og hver geta verið næstu skref með vefinn (ókláruð virkni, endurbætur o.s.frv.).
 * Kynning á hóp
@@ -45,13 +45,14 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 ### Námsmat 
 
 * **10% Útgáfustýring - Undirbúningsvinna**
-  *  Greinargerð (sjá lýsingu hér að ofan)
-  *  Verkáætlun (GitHub, project - milestones)
-  *  Efnisöflun og skipulag (layout).  
-  *  Dagbók
+  *  Greinargerð (í Readme.md)
+  *  Verkáætlun (Project - milestones)
+  *  Efnisöflun og skipulag (Project).  
+  *  Kynning á hóp (vefsíða á GitHub)
+  *  Dagbók (Wiki)
   *  Viðhald (lýsing í dagbók)
   *  Heimildaskrá (Wiki)
-  *  Kynning á hóp (vefsíða á GitHub)
+  *  Kynning á hóp (vefsíða á GitHub - docs)
 
 
 * **10%   Afurð - Tæknilegar lausnir**
