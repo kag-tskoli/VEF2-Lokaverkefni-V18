@@ -76,7 +76,8 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 
 
 > **Afurð er metin útfrá verklýsingu og vinnuframlagi í Git/GitHub.**
-> **Nemendur eiga að nota Git samþáttun hvert skipti sem unnið er í hópverkefninu.**
+
+> **Nemendur eiga að nota Git samþáttun í hvert skipti sem unnið er í hópverkefninu.**
 
 
 
