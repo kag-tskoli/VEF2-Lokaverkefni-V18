@@ -27,8 +27,8 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 * Kynning á hóp
   * Setjið vefsíðu á GitHub geymsluna sem á að vera kynning á hópnum og verkefninu í stuttu máli. Veljið merki fyrir hópinn og setjið inn myndir af ykkur. Sjá dæmi hér: .........í vinnslu.
 
-#### Ég mæli með því að nota GitHub "Project" bæði í hugmynda- og skipulagsvinnuna.
-#### Wiki er tilvalið til að halda dagbók og skrá inn framvindu verkefnisins. Einnig á að skrá allar heimildir í sér Wiki skrá.
+> **Ég mæli með því að nota GitHub "Project" bæði í hugmynda- og skipulagsvinnuna.**
+> **Wiki er tilvalið til að halda dagbók og skrá inn framvindu verkefnisins. Einnig á að skrá allar heimildir í sér Wiki skrá.**
 
 
 ### Afurð:  Tæknilegar lausnir
@@ -40,18 +40,18 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 * SCSS/CSS kóðun í stílsíðum – aðeins ein CSS stílsíða tengd vefsíðu.
 * Kvikun – Animation  (val - animation, transitions, transform)
 * Notandi getur skráð sig á fyrirlestra, atburði eða tónleika sem eru í boði (form). 
-  * Upplýsingar sem skráðar eru í formið eru villuprófaðar (HTML5 validation).
+* Upplýsingar sem skráðar eru í form eru villuprófaðar (_HTML5 validation - required_).
 
 ### Námsmat 
 
 * **10% Útgáfustýring - Undirbúningsvinna**
-  *  Greinargerð (í Readme.md)
-  *  Verkáætlun (Project - milestones)
-  *  Efnisöflun og skipulag (Project).  
-  *  Dagbók (Wiki)
+  *  Greinargerð (í _Readme.md_)
+  *  Verkáætlun (_Project - milestones_)
+  *  Efnisöflun og skipulag (_Project_).  
+  *  Dagbók (_Wiki_)
   *  Viðhald (lýsing í dagbók)
-  *  Heimildaskrá (Wiki)
-  *  Kynning á hóp (vefsíða á GitHub - docs)
+  *  Heimildaskrá (_Wiki_)
+*  Kynning á hóp (vefsíða á GitHub - _docs_)
 
 
 * **10%   Afurð - Tæknilegar lausnir**
@@ -63,10 +63,7 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
   * SCSS forvinnsla
 
 ## Verkefnaskil
-  * Afurð/vef er skilað á http://tsuts.tskoli.is/2t/þín-KT/lokaverkefni
-  * **Afurð er metin útfrá verklýsingu og vinnuframlagi í Git/GitHub.**
-  * Nemendur nota Git hvert skipti sem unnið er í hópverkefninu. 
-  * Öllum vinnugögnum  er skilað í GitHub geymslu (repository)
+  * **Öllum vinnugögnum  er skilað í GitHub geymslu (repository)**
     1. Greinargerð um verkefnið
     2. Hugmyndavinnu (skissur ofl)
     3. Textavinnsla
@@ -75,12 +72,18 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
     6. Dagbók
     7. Heimildaskrá í Wiki
     8. Kynning á hóp í Github vefsíðu
+    9. Afurð/vef er skilað á http://tsuts.tskoli.is/2t/þín-KT/lokaverkefni
+
+
+> **Afurð er metin útfrá verklýsingu og vinnuframlagi í Git/GitHub.**
+> **Nemendur eiga að nota Git samþáttun hvert skipti sem unnið er í hópverkefninu.**
+
 
 
 #### Tenglum (link) á vef og geymslu er skilað í INNU.  
 #### Athugið að hópverkefnið er lykilmatsþáttur. 
  
-## Bjargir 
+#### Bjargir 
 
 * INNA/VEF2Þ/Efni 
 * Snjallvefsíður SPA: 
