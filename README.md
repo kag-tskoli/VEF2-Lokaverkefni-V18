@@ -43,14 +43,15 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 
 ### Námsmat 
 
-* **10% Útgáfustýring - Undirbúningsvinna**
+* **8% Útgáfustýring - Undirbúningsvinna**
   *  Greinargerð (í _Readme.md_)
   *  Verkáætlun (_Project - milestones_)
   *  Efnisöflun og skipulag (_Project_).  
   *  Dagbók (_Wiki_)
   *  Viðhald (lýsing í dagbók)
   *  Heimildaskrá (_Wiki_)
-*  Kynning á hóp (vefsíða á GitHub - _docs_)
+
+*  **2% Kynning á hóp (vefsíða á GitHub - _docs_)**
 
 
 * **10%   Afurð - Tæknilegar lausnir**
