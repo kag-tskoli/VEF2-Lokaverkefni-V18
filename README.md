@@ -7,18 +7,19 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 
 ### Útgáfustýring:  Verkstjórn og greinargerð um vinnuferlið.
 
-* Gerið grein fyrir eftirtöldum atriðum:
+* Gerið grein fyrir eftirtöldum atriðum í _README.md_ 
   * Um hvað er vefurinn?   
   * Hver er markhópurinn og markmið með gerð vefsins.
-  * Setjið greinargerðina í _README.md_ skrána.
-* Hubmynda- og skipulagsvinna
-  * Skráið allar hugmyndir inn í _"Project"_ ásamt verkefnaskipulagi.
-* Efnisöflun
-  *  Skoðið hvað aðrir hafa gert, safnið saman fyrirmyndum ss tenglum á áhugaverðar vefsíður.  Það má nota texta og myndir af öðrum vefsíðum 
-  *  Gerið grein fyrir hvaðan efnið er tilkomið í heimildaskrá. Notið _WIKI_ skrá til þess.
-* Dagbók
-  * Notið _Wiki_ til að skrá vinnuferlið, hvernig gengur frá byrjun til enda.
-  * Viðhald (í dagbók) Í lok verkefnisins á að útskýra hvað má gera betur og hver geta verið næstu skref með vefinn (ókláruð virkni, endurbætur o.s.frv.).
+  * Setjið tengla sem vísa á hópsíðu og afurð
+* Efnisöflun og hugmyndavinna í _"Project"_
+  * Skráið allar hugmyndir  
+  * Skoðið hvað aðrir hafa gert, safnið saman fyrirmyndum ss tenglum á áhugaverðar vefsíður.  
+  * Það má nota texta og myndir af öðrum vefsíðum 
+  * Gerið grein fyrir hvaðan efnið er tilkomið í heimildaskrá. Notið _WIKI_ skrá til þess.
+* Skipulagsvinna í _"Project"_
+* Dagbók, notið _Wiki_ 
+  * Skráið vinnuferlið, hvernig það gengur frá byrjun til enda.
+  * Viðhald, í lok verkefnisins á að útskýra hvað má gera betur og hver geta verið næstu skref með vefinn (ókláruð virkni, endurbætur o.s.frv.).
 * Prófanir - https://validator.w3.org/
   *  Er kóðinn í lagi? Er vefurinn villulaus?  (sjá Inspector console, firebug, chrome dev).
 * Kynning á hóp
