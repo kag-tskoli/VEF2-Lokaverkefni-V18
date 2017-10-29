@@ -74,7 +74,7 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
     8. Kynning á hóp í Github vefsíðu
     9. Afurð/vef er skilað á http://tsuts.tskoli.is/2t/þín-KT/lokaverkefni
 
-> **Nemendur eiga að nota Git samþáttun í hvert skipti sem unnið er í hópverkefninu.**
+> **Nemendur eiga að nota Git samþáttun í hvert skipti sem unnið er í hópverkefninu.**<br>
 > **Afurð er metin útfrá vinnuframlagi í Git og verkstjórnun í GitHub.**
 
 #### Tenglum (link) á vef og geymslu er skilað í INNU.  
