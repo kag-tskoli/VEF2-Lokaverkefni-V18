@@ -16,14 +16,11 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 * Efnisöflun
   *  Skoðið hvað aðrir hafa gert, safnið saman fyrirmyndum ss tenglum á áhugaverðar vefsíður.  Það má nota texta og myndir af öðrum vefsíðum 
   *  Gerið grein fyrir hvaðan efnið er tilkomið í heimildaskrá. Notið _WIKI_ skrá til þess.
-* Tæknileg útfærsla
-  *  Útskýrið eigin lausnir ss virkni í forritun og kvikun. 
-* Prófanir - https://validator.w3.org/
-  *  Er kóðinn í lagi? Er vefurinn villulaus?  (sjá Inspector console, firebug, chrome dev).
 * Dagbók
   * Notið _Wiki_ til að skrá vinnuferlið, hvernig gengur frá byrjun til enda.
-* Viðhald (í dagbók)
-  *  Í lok verkefnisins á að útskýra hvað má gera betur og hver geta verið næstu skref með vefinn (ókláruð virkni, endurbætur o.s.frv.).
+  * Viðhald (í dagbók) Í lok verkefnisins á að útskýra hvað má gera betur og hver geta verið næstu skref með vefinn (ókláruð virkni, endurbætur o.s.frv.).
+* Prófanir - https://validator.w3.org/
+  *  Er kóðinn í lagi? Er vefurinn villulaus?  (sjá Inspector console, firebug, chrome dev).
 * Kynning á hóp
   * Setjið vefsíðu á GitHub geymsluna sem á að vera kynning á hópnum og verkefninu í stuttu máli. Veljið merki fyrir hópinn og setjið inn myndir af ykkur. Sjá dæmi hér: .........í vinnslu.
 
