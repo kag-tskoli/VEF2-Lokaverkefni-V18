@@ -26,8 +26,8 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 * Kynning á hóp
   * Setjið vefsíðu á GitHub geymsluna sem á að vera kynning á hópnum og verkefninu í stuttu máli. Veljið merki fyrir hópinn og setjið inn myndir af ykkur. Sjá dæmi hér:  í vinnslu.
 
-> **Ég mæli með því að nota GitHub "Project" bæði í hugmynda- og skipulagsvinnuna.**
-> **Wiki er tilvalið til að halda dagbók og skrá inn framvindu verkefnisins. Einnig á að skrá allar heimildir í sér Wiki skrá.**
+> **Ég mæli með því að nota GitHub "Project" bæði í hugmynda- og skipulagsvinnuna.** <br>
+> **Wiki er tilvalið til að halda dagbók og skrá inn framvindu verkefnisins ásamt heimildaskrá.**
 
 
 ### Afurð:  Tæknilegar lausnir
