@@ -42,6 +42,7 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 * SCSS/CSS kóðun í stílsíðum – aðeins ein CSS stílsíða tengd vefsíðu.
 * Kvikun – Animation  (val - animation, transitions, transform)
 * Notandi getur skráð sig á fyrirlestra, atburði eða tónleika sem eru í boði (form). 
+  * **Athugið að það er ekki farið fram á samskipti form og miðlara,** einungis er verið að setja upp formið og stíla það.
 * Upplýsingar sem skráðar eru í form eru villuprófaðar (_HTML5 validation - required_).
 
 ### Námsmat 
