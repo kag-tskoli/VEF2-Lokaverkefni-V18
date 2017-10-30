@@ -5,6 +5,9 @@
 Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, listsýningu, hugbúnað, tölvuleik, pólitík eða það sem þér þykir fýsilegt að fjalla um.  Viðburðurinn má vera hvar sem er á íslandi og setjið staðsetningarkort á vefsíðuna.  Efnisval er frjálst, en það má ekki notast við “dummy” texta (Lorem Ipsum  …).   Vefurinn á að endurspegla þá verkkunnáttu sem þú hefur öðlast í áfanganum ásamt fyrri áfanga, VEFÞ1.  
 #### Gerum ráð fyrir á ráðstefnan eða viðburðurinn sé haldin seinni hluta desember.
 
+> **Nemendur eiga að nota Git samþáttun í hvert skipti sem unnið er í hópverkefninu.**<br>
+> **Afurð er metin útfrá vinnuframlagi í Git og verkstjórnun í GitHub.**
+
 ### Útgáfustýring:  Verkstjórn og greinargerð um vinnuferlið.
 
 * Gerið grein fyrir eftirtöldum atriðum í _README.md_ 
@@ -73,9 +76,6 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
     7. Heimildaskrá í Wiki
     8. Kynning á hóp í Github vefsíðu
     9. Afurð/vef er skilað á http://tsuts.tskoli.is/2t/þín-KT/lokaverkefni
-
-> **Nemendur eiga að nota Git samþáttun í hvert skipti sem unnið er í hópverkefninu.**<br>
-> **Afurð er metin útfrá vinnuframlagi í Git og verkstjórnun í GitHub.**
 
 #### Tenglum (link) á vef og geymslu er skilað í INNU.  
 #### Athugið að hópverkefnið er lykilmatsþáttur. 
