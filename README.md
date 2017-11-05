@@ -6,10 +6,10 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 #### Gerum ráð fyrir á ráðstefnan eða viðburðurinn sé haldin seinni hluta desember.
 
 > **Nemendur eiga að nota Git samþáttun í hvert skipti sem unnið er í hópverkefninu.**<br>
-> **Afurð er metin útfrá vinnuframlagi í Git og verkstjórnun í GitHub.**
+> Afurð er metin útfrá vinnuframlagi í Git og verkstjórnun í GitHub.
 
 > **Ég mæli með því að nota GitHub "Project" bæði í hugmynda- og skipulagsvinnuna.** <br>
-> **Wiki er tilvalið til að halda dagbók og skrá inn framvindu verkefnisins ásamt heimildaskrá.**
+> **Wiki** er tilvalið til að halda dagbók og skrá inn framvindu verkefnisins ásamt heimildaskrá.
 
 ### Útgáfustýring:  Verkstjórn og greinargerð um vinnuferlið.
 
@@ -76,8 +76,8 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
     6. Kynning á hóp í Github vefsíðu
     7. Afurð/vef er skilað á http://tsuts.tskoli.is/2t/þín-KT/lokaverkefni
 
-#### Tenglum (link) á vef og geymslu er skilað í INNU.  
-#### Athugið að hópverkefnið er lykilmatsþáttur. 
+> Tenglum (link) á vef og geymslu er skilað í INNU. Nemendur skila verkefninu hver fyrir sig vegna þess að einkunn er metin útfrá vinnuframlagi í Git og verkstjórnun í GitHub. 
+> Athugið að hópverkefnið er lykilmatsþáttur. 
  
 #### Bjargir 
 
