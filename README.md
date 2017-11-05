@@ -23,7 +23,7 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
   * Gerið grein fyrir hvaðan efnið er tilkomið í heimildaskrá. Notið _WIKI_ skrá til þess.
 * Skipulagsvinna í _"Project"_
   * Skráið **hvað** á að gera í verkefnaáætlun. Gerið tímaáætlun og skráið **hver** á að framkvæma tiltekna verkþætti.
-* Dagbók, notið [_Wiki_](wiki) 
+* Dagbók, notið [_Wiki_](https://github.com/vefhonnun/VEF2-Lokaverkefni-H17/wiki) 
   * Skráið vinnuferlið, hvernig það gengur frá byrjun til enda.
   * Viðhald, í lok verkefnisins á að útskýra hvað má gera betur og hver geta verið næstu skref með vefinn (ókláruð virkni, endurbætur o.s.frv.).
 * Prófanir - https://validator.w3.org/
@@ -75,8 +75,8 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
     6. Kynning á hóp í Github vefsíðu
     7. Afurð/vef er skilað á http://tsuts.tskoli.is/2t/þín-KT/lokaverkefni
 
-> Tenglum (link) á vef og geymslu er skilað í INNU. Nemendur skila verkefninu hver fyrir sig vegna þess að einkunn er metin útfrá vinnuframlagi í Git og verkstjórnun í GitHub. 
+> Tenglum (link) á vef og geymslu er skilað í INNU. Nemendur skila verkefninu hver fyrir sig vegna þess að einkunn er metin útfrá vinnuframlagi í Git og verkstjórnun í GitHub. <br>
 > Athugið að hópverkefnið er lykilmatsþáttur. 
  
-_Gangi ykkur vel_
+* _Gangi ykkur vel_
 
