@@ -24,7 +24,7 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
   * Gerið grein fyrir hvaðan efnið er tilkomið í heimildaskrá. Notið _WIKI_ skrá til þess.
 * Skipulagsvinna í _"Project"_
   * Skráið **hvað** á að gera í verkefnaáætlun. Gerið tímaáætlun og skráið **hver** á að framkvæma tiltekna verkþætti.
-* Dagbók, notið _Wiki_ 
+* Dagbók, notið [_Wiki_](wiki) 
   * Skráið vinnuferlið, hvernig það gengur frá byrjun til enda.
   * Viðhald, í lok verkefnisins á að útskýra hvað má gera betur og hver geta verið næstu skref með vefinn (ókláruð virkni, endurbætur o.s.frv.).
 * Prófanir - https://validator.w3.org/
