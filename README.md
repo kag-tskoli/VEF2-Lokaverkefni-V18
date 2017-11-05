@@ -83,6 +83,8 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 
 * INNA/VEF2Þ/Efni 
 * Skipulagning - verkefnastjórnun
+  * https://guides.github.com/introduction/flow/
+  * https://github.com/features/
   * https://en.wikipedia.org/wiki/Kanban_(development)
 * Snjallvefsíður SPA: 
   * https://kodun.is/     
