@@ -82,6 +82,8 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 #### Bjargir 
 
 * INNA/VEF2Þ/Efni 
+* Skipulagning - verkefnastjórnun
+  * https://en.wikipedia.org/wiki/Kanban_(development)#Other_uses
 * Snjallvefsíður SPA: 
   * https://kodun.is/     
   * https://onepagelove.com/   
