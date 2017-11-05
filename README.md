@@ -1,7 +1,7 @@
 # VEFÞ2 Lokaverkefni Haust 2017
-
-### Hópastærð: 2-3 nemendur.
-### Verklýsing
+### Hópverkefni
+#### Hópastærð: 2 nemendur.
+#### Verklýsing
 Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, listsýningu, hugbúnað, tölvuleik, pólitík eða það sem þér þykir fýsilegt að fjalla um.  Viðburðurinn má vera hvar sem er á íslandi og setjið staðsetningarkort á vefsíðuna.  Efnisval er frjálst, en það má ekki notast við “dummy” texta (Lorem Ipsum  …).   Vefurinn á að endurspegla þá verkkunnáttu sem þú hefur öðlast í áfanganum ásamt fyrri áfanga, VEFÞ1.  
 #### Gerum ráð fyrir á ráðstefnan eða viðburðurinn sé haldin seinni hluta desember.
 
