@@ -69,14 +69,12 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 ## Verkefnaskil
   * **Öllum vinnugögnum  er skilað í GitHub geymslu (repository)**
     1. Greinargerð um verkefnið
-    2. Hugmyndavinnu (skissur ofl)
-    3. Textavinnsla
-    4. Skipulag (layout) 
-    5. Vefurinn með öllum kóða ss. SCSS/CSS, js og php kóða
-    6. Dagbók
-    7. Heimildaskrá í Wiki
-    8. Kynning á hóp í Github vefsíðu
-    9. Afurð/vef er skilað á http://tsuts.tskoli.is/2t/þín-KT/lokaverkefni
+    2. Hugmyndavinnu (skissur ofl). Skipulag (layout). 
+    3. Vefurinn með öllum kóða ss. SCSS/CSS, js og php kóða.
+    4. Textavinnsla og myndir
+    5. Dagbók og Heimildaskrá 
+    6. Kynning á hóp í Github vefsíðu
+    7. Afurð/vef er skilað á http://tsuts.tskoli.is/2t/þín-KT/lokaverkefni
 
 #### Tenglum (link) á vef og geymslu er skilað í INNU.  
 #### Athugið að hópverkefnið er lykilmatsþáttur. 
