@@ -1,7 +1,6 @@
 # VEFÞ2 Lokaverkefni Haust 2017
-### Hópverkefni
-#### Hópastærð: 2 nemendur.
-#### Verklýsing
+### Hópverkefni, hópastærð: 2 nemendur.
+### Verklýsing
 Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, listsýningu, hugbúnað, tölvuleik, pólitík eða það sem þér þykir fýsilegt að fjalla um.  Viðburðurinn má vera hvar sem er á íslandi og setjið staðsetningarkort á vefsíðuna.  Efnisval er frjálst, en það má ekki notast við “dummy” texta (Lorem Ipsum  …).   Vefurinn á að endurspegla þá verkkunnáttu sem þú hefur öðlast í áfanganum ásamt fyrri áfanga, VEFÞ1.  
 #### Gerum ráð fyrir á ráðstefnan eða viðburðurinn sé haldin seinni hluta desember.
 
@@ -79,28 +78,5 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 > Tenglum (link) á vef og geymslu er skilað í INNU. Nemendur skila verkefninu hver fyrir sig vegna þess að einkunn er metin útfrá vinnuframlagi í Git og verkstjórnun í GitHub. 
 > Athugið að hópverkefnið er lykilmatsþáttur. 
  
-#### Bjargir 
-
-* INNA/VEF2Þ/Efni 
-* Skipulagning - verkefnastjórnun
-  * https://guides.github.com/introduction/flow/
-  * https://github.com/features/
-  * https://en.wikipedia.org/wiki/Kanban_(development)
-* Snjallvefsíður SPA: 
-  * https://kodun.is/     
-  * https://onepagelove.com/   
-* Parallax Scrolling: 
-  * http://www.w3schools.com/howto/howto_css_parallax.asp
-  * http://www.awwwards.com/websites/parallax/
-* Animation
-  * https://www.mrpapercut.com/detail/34_keyframe_animations_in_sass
-  * http://www.hongkiat.com/blog/mixin-library-for-sass/
-  * http://geoffgraham.me/tag/sass/ -> http://geoffgraham.me/animate-scss/
-  * https://github.com/tgdev/animate-sass
-  * https://github.com/joshbroton/sassquatch
-  * http://daneden.github.io/animate.css/
-* Form validation
-  * http://www.the-art-of-web.com/html/html5-form-validation/
-  * http://www.w3schools.com/html/html_form_attributes.asp
-  * https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Data_form_validation
+_Gangi ykkur vel_
 
