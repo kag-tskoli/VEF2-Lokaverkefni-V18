@@ -29,7 +29,7 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 * Prófanir - https://validator.w3.org/
   *  Er kóðinn í lagi? Er vefurinn villulaus?  (sjá Inspector console, firebug, chrome dev). 
 * Kynning á hóp
-  * [Setjið vefsíðu á GitHub geymsluna](leiðbeiningar/vefsida-Github.pdf) sem á að vera kynning á hópnum og verkefninu í stuttu máli. Veljið merki fyrir hópinn og setjið inn myndir af ykkur. [Sjá vefdæmi](docs/).
+  * [Setjið vefsíðu á GitHub geymsluna](leiðbeiningar/vefsida-Github.pdf) sem á að vera kynning á hópnum og verkefninu í stuttu máli. Veljið merki fyrir hópinn og setjið inn myndir af ykkur. [Sjá vefdæmi](https://vefhonnun.github.io/VEF2-Lokaverkefni-H17/).
 
 
 ### Afurð:  Tæknilegar lausnir
