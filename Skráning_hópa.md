@@ -1,3 +1,3 @@
 # Skráning hópa
 
-Sendið **"Pull request"** á þetta skjal og tilgreinið: nöfn og tengil á geymsluna þar sem hópverkefnið verður geymt. 
+Sendið **"ISSUES"** á þetta skjal og tilgreinið: nöfn og tengil á geymsluna þar sem hópverkefnið verður geymt. 
