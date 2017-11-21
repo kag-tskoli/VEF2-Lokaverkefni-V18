@@ -35,7 +35,6 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
     * Setjið inn myndir af ykkur. 
     * [Sjá vefdæmi](https://vefhonnun.github.io/VEF2-Lokaverkefni-H17/).
 
-
 ### Afurð:  Tæknilegar lausnir
 
 * Viðmið (breakpoints) fyrir mismunandi skjástærðir, „mobile up“ - 37.5em, 48em, 60em, 80em.
@@ -59,7 +58,6 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
   *  Heimildaskrá (_Wiki_)
 
 *  **2% Kynning á hóp (vefsíða á GitHub - _docs_)**
-
 
 * **10%   Afurð - Tæknilegar lausnir**
   * Útlit (layout) vel útfært með viðmiðum (breakpoints) 
