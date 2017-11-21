@@ -38,7 +38,7 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 
 ### Afurð:  Tæknilegar lausnir
 
-* Viðmið (breakpoints) fyrir mismunandi skjástærðir, „mobile up“ - 37.5em, 48em, 60em, 80em.
+* Viðmið (_breakpoints_) fyrir mismunandi skjástærðir, „mobile up“ - 37.5em, 48em, 60em, 80em.
 * Myndir í vefsíðum aðlagast mismunandi skjástærðum (notið &lt;picture&gt; tagið).
 * Letur og litanotkun er í samræmi við efni/þema vefsins.
 * Almenn lýsing á viðburði og sundurliðuð dagskrá í töflu.
