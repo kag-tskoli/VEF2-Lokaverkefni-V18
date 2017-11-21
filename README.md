@@ -61,17 +61,18 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 *  **2% Kynning á hóp (vefsíða á GitHub - _docs_)**
 
 * **10%   Afurð - Tæknilegar lausnir**
-  * Útlit (layout) vel útfært með viðmiðum (breakpoints) 
-  * Sveigjanlegar myndir (responsive)
+  * Útlit (_layout_) vel útfært með viðmiðum (_breakpoints_) 
+  * Myndir í samræmi við skjástærð (_&lt;picture&gt;_)
+  * SVG mynd sem firmamerki (_logo_)
   * Samræmi í letur og litanotkun. 
   * Kvikun 
   * Samskiptaform með HTML5 validation
   * SCSS forvinnsla
 
 ## Verkefnaskil
-  * **Öllum vinnugögnum  er skilað í GitHub geymslu (repository)**
+  * **Öllum vinnugögnum  er skilað í GitHub geymslu (_repository_)**
     1. Greinargerð um verkefnið
-    2. Hugmyndavinnu (skissur ofl). Skipulag (layout). 
+    2. Hugmyndavinnu (skissur ofl). Skipulag (_layout_). 
     3. Vefurinn með öllum kóða ss. SCSS/CSS, js og php kóða.
     4. Textavinnsla og myndir
     5. Dagbók og Heimildaskrá 
