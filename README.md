@@ -66,8 +66,8 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
   * SVG mynd sem firmamerki (_logo_)
   * Samræmi í letur og litanotkun. 
   * Kvikun 
-  * Samskiptaform með HTML5 validation
-  * SCSS forvinnsla
+  * Samskiptaform með _HTML5 validation_
+  * SCSS forvinnsla stíla
 
 ## Verkefnaskil
   * **Öllum vinnugögnum  er skilað í GitHub geymslu (_repository_)**
