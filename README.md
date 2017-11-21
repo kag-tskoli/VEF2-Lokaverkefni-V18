@@ -16,44 +16,44 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 
 * Gerið grein fyrir eftirtöldum atriðum í _README.md_ 
   * Um hvað er vefurinn?   
-  * Hver er markhópurinn og markmið með gerð vefsins.
+  * Hver er markhópurinn og markmið með gerð vefsins
   * Setjið tengla sem vísa á hópsíðu og afurð
 * Efnisöflun og hugmyndavinna í [_"Project"_](https://github.com/vefhonnun/VEF2-Lokaverkefni-H17/projects/1)
   * Skráið allar hugmyndir  
-  * Skoðið hvað aðrir hafa gert, safnið saman fyrirmyndum ss tenglum á áhugaverðar vefsíður.  
+  * Skoðið hvað aðrir hafa gert, safnið saman fyrirmyndum ss tenglum á áhugaverðar vefsíður
   * Það má nota texta og myndir af öðrum vefsíðum 
-  * Gerið grein fyrir hvaðan efnið er tilkomið í heimildaskrá. Notið _WIKI_ skrá til þess.
+  * Gerið grein fyrir hvaðan efnið er tilkomið í heimildaskrá. Notið _WIKI_ skrá til þess
 * Skipulagsvinna í [_"Project"_](https://github.com/vefhonnun/VEF2-Lokaverkefni-H17/projects/1)
   * Skráið **hvað** á að gera í verkefnaáætlun. Gerið tímaáætlun og skráið **hver** á að framkvæma tiltekna verkþætti.
 * Dagbók, notið [_Wiki_](https://github.com/vefhonnun/VEF2-Lokaverkefni-H17/wiki) 
-  * Skráið vinnuferlið, hvernig það gengur frá byrjun til enda.
-  * Viðhald, í lok verkefnisins á að útskýra hvað má gera betur og hver geta verið næstu skref með vefinn (ókláruð virkni, endurbætur o.s.frv.).
+  * Skráið vinnuferlið, hvernig það gengur frá byrjun til enda
+  * Viðhald, í lok verkefnisins á að útskýra hvað má gera betur og hver geta verið næstu skref með vefinn (ókláruð virkni, endurbætur o.s.frv.)
 * Prófanir
-  *  Er kóðinn í lagi? Er vefurinn villulaus?  [W3 Markup validation](https://validator.w3.org/). 
+  *  Er kóðinn í lagi? Er vefurinn villulaus?  [W3 Markup validation](https://validator.w3.org/)
 * Kynning á hóp
     * [Setjið vefsíðu á GitHub geymsluna](/leiðbeiningar/vefsida_Github.pdf) sem á að vera kynning á hópnum og verkefninu í stuttu máli.
-    * Veljið merki fyrir hópinn (t.d. _SVG_ mynd).
-    * Setjið inn myndir af ykkur. 
-    * [Sjá vefdæmi](https://vefhonnun.github.io/VEF2-Lokaverkefni-H17/).
+    * Veljið merki fyrir hópinn (t.d. _SVG_ mynd)
+    * Setjið inn myndir af ykkur
+    * [Sjá vefdæmi](https://vefhonnun.github.io/VEF2-Lokaverkefni-H17/)
 
 ### Afurð:  Tæknilegar lausnir
 
-* Viðmið (_breakpoints_) fyrir mismunandi skjástærðir, _„mobile up“_ -> 30em, 37.5em, 48em, 60em, 80em.
-* Myndir í vefsíðum aðlagast mismunandi skjástærðum (notið &lt;picture&gt; tagið).
-* Letur og litanotkun er í samræmi við efni/þema vefsins.
-* Almenn lýsing á viðburði og sundurliðuð dagskrá í töflu.
-* SCSS stílsíður –> ein CSS stílsíða tengd vefsíðu (_compressed_).
+* Viðmið (_breakpoints_) fyrir mismunandi skjástærðir, _„mobile up“_ -> 30em, 37.5em, 48em, 60em, 80em
+* Myndir í vefsíðum aðlagast mismunandi skjástærðum (notið &lt;picture&gt; tagið)
+* Letur og litanotkun er í samræmi við efni/þema vefsins
+* SCSS stílsíður –> ein CSS stílsíða tengd vefsíðu (_compressed_)
 * Kvikun (_animation, transitions, transform_)
-* Notandi getur skráð sig á fyrirlestra, atburði eða tónleika sem eru í boði (_form_). 
-  * **Athugið að það er ekki farið fram á samskipti vefsíðu og miðlara,** einungis er verið að setja upp formið og stíla það.
-* Upplýsingar sem skráðar eru í form eru villuprófaðar (_HTML5 validation - required_).
+* Almenn lýsing á viðburði og sundurliðuð dagskrá í töflu
+* Notandi getur skráð sig á fyrirlestra, atburði eða tónleika sem eru í boði (_form_)
+  * **Athugið að það er ekki farið fram á samskipti vefsíðu og miðlara,** einungis er verið að setja upp formið og stíla það
+* Upplýsingar sem skráðar eru í form eru villuprófaðar (_HTML5 validation - required_)
 
 ### Námsmat 
 
 * **8% Útgáfustýring - Undirbúningsvinna**
   *  Greinargerð (í _Readme.md_)
   *  Verkáætlun (_Project - milestones_)
-  *  Efnisöflun og skipulag (_Project_).  
+  *  Efnisöflun og skipulag (_Project_)  
   *  Dagbók (_Wiki_)
   *  Heimildaskrá (_Wiki_)
 
@@ -63,7 +63,7 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
   * Útlit (_layout_) vel útfært með viðmiðum (_breakpoints_) 
   * Myndir í samræmi við skjástærð (_&lt;picture&gt;_)
   * SVG mynd sem firmamerki (_logo_)
-  * Samræmi í letur og litanotkun. 
+  * Samræmi í letur og litanotkun 
   * Kvikun (_animation, transitions, transform_) 
   * Samskiptaform með _HTML5 validation_
   * SCSS/CSS stílsíður
@@ -71,8 +71,8 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 ## Verkefnaskil
   * **Öllum vinnugögnum  er skilað í GitHub geymslu (_repository_)**
     1. Greinargerð um verkefnið
-    2. Hugmyndavinnu (skissur ofl). Skipulag (_layout_). 
-    3. Vefurinn með öllum kóða ss. SCSS/CSS, js og php kóða.
+    2. Hugmyndavinnu (skissur ofl). Skipulag (_layout_)
+    3. Vefurinn með öllum kóða ss. SCSS/CSS, js og php kóða
     4. Textavinnsla og myndir
     5. Dagbók og Heimildaskrá 
     6. Kynning á hóp í Github vefsíðu
