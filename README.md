@@ -42,9 +42,9 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 * Myndir í vefsíðum aðlagast mismunandi skjástærðum (notið &lt;picture&gt; tagið).
 * Letur og litanotkun er í samræmi við efni/þema vefsins.
 * Almenn lýsing á viðburði og sundurliðuð dagskrá í töflu.
-* SCSS/CSS kóðun í stílsíðum – aðeins ein CSS stílsíða tengd vefsíðu.
-* Kvikun – Animation  (val - animation, transitions, transform)
-* Notandi getur skráð sig á fyrirlestra, atburði eða tónleika sem eru í boði (form). 
+* SCSS stílsíður –> ein CSS stílsíða tengd vefsíðu (_compressed_).
+* Kvikun (_animation, transitions, transform_)
+* Notandi getur skráð sig á fyrirlestra, atburði eða tónleika sem eru í boði (_form_). 
   * **Athugið að það er ekki farið fram á samskipti vefsíðu og miðlara,** einungis er verið að setja upp formið og stíla það.
 * Upplýsingar sem skráðar eru í form eru villuprófaðar (_HTML5 validation - required_).
 
@@ -65,9 +65,9 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
   * Myndir í samræmi við skjástærð (_&lt;picture&gt;_)
   * SVG mynd sem firmamerki (_logo_)
   * Samræmi í letur og litanotkun. 
-  * Kvikun 
+  * Kvikun (_animation, transitions, transform_) Kvikun 
   * Samskiptaform með _HTML5 validation_
-  * SCSS forvinnsla stíla
+  * SCSS/CSS stílsíður
 
 ## Verkefnaskil
   * **Öllum vinnugögnum  er skilað í GitHub geymslu (_repository_)**
