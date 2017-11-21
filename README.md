@@ -18,7 +18,7 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
   * Um hvað er vefurinn?   
   * Hver er markhópurinn og markmið með gerð vefsins.
   * Setjið tengla sem vísa á hópsíðu og afurð
-* Efnisöflun og hugmyndavinna í _"Project"_
+* Efnisöflun og hugmyndavinna í [_"Project"_](https://github.com/vefhonnun/VEF2-Lokaverkefni-H17/projects/1)
   * Skráið allar hugmyndir  
   * Skoðið hvað aðrir hafa gert, safnið saman fyrirmyndum ss tenglum á áhugaverðar vefsíður.  
   * Það má nota texta og myndir af öðrum vefsíðum 
@@ -31,7 +31,8 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 * Prófanir - https://validator.w3.org/
   *  Er kóðinn í lagi? Er vefurinn villulaus?  (sjá Inspector console, firebug, chrome dev). 
 * Kynning á hóp
-    * [Setjið vefsíðu á GitHub geymsluna](/leiðbeiningar/vefsida_Github.pdf) sem á að vera kynning á hópnum og verkefninu í stuttu máli.     * Veljið merki fyrir hópinn (t.d. _SVG_ mynd).
+    * [Setjið vefsíðu á GitHub geymsluna](/leiðbeiningar/vefsida_Github.pdf) sem á að vera kynning á hópnum og verkefninu í stuttu máli.
+    * Veljið merki fyrir hópinn (t.d. _SVG_ mynd).
     * Setjið inn myndir af ykkur. 
     * [Sjá vefdæmi](https://vefhonnun.github.io/VEF2-Lokaverkefni-H17/).
 
