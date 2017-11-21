@@ -65,7 +65,7 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
   * Myndir í samræmi við skjástærð (_&lt;picture&gt;_)
   * SVG mynd sem firmamerki (_logo_)
   * Samræmi í letur og litanotkun. 
-  * Kvikun (_animation, transitions, transform_) Kvikun 
+  * Kvikun (_animation, transitions, transform_) 
   * Samskiptaform með _HTML5 validation_
   * SCSS/CSS stílsíður
 
