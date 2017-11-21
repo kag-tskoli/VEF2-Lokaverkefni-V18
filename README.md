@@ -28,8 +28,8 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 * Dagbók, notið [_Wiki_](https://github.com/vefhonnun/VEF2-Lokaverkefni-H17/wiki) 
   * Skráið vinnuferlið, hvernig það gengur frá byrjun til enda.
   * Viðhald, í lok verkefnisins á að útskýra hvað má gera betur og hver geta verið næstu skref með vefinn (ókláruð virkni, endurbætur o.s.frv.).
-* Prófanir - https://validator.w3.org/
-  *  Er kóðinn í lagi? Er vefurinn villulaus?  (sjá Inspector console, firebug, chrome dev). 
+* Prófanir
+  *  Er kóðinn í lagi? Er vefurinn villulaus?  [W3 Markup validation](https://validator.w3.org/). 
 * Kynning á hóp
     * [Setjið vefsíðu á GitHub geymsluna](/leiðbeiningar/vefsida_Github.pdf) sem á að vera kynning á hópnum og verkefninu í stuttu máli.
     * Veljið merki fyrir hópinn (t.d. _SVG_ mynd).
