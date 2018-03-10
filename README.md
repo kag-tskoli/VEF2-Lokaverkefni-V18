@@ -1,7 +1,7 @@
 # VEFÞ2 Lokaverkefni Vor 2018
 ### Hópverkefni, hópastærð: 2 nemendur.
 Skráið nöfn ykkar og setjið tengil á hópverkerkefnið.
-[Skráning hópa hér í viðfangsefni -_Issues_ ](https://github.com/vefhonnun/VEF2-Lokaverkefni-H17/issues/) 
+[Skráning hópa hér í viðfangsefni -_New Issue_ ](https://github.com/vefhonnun/VEF2-Lokaverkefni-H17/issues/) 
 ### Verklýsing
 Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, listsýningu, hugbúnað, tölvuleik, pólitík eða það sem þér þykir fýsilegt að fjalla um.  Viðburðurinn má vera hvar sem er á íslandi og setjið staðsetningarkort á vefsíðuna.  **Efnisval er frjálst**, og reynið að forðast _“dummy”_ texta (Lorem Ipsum ETC …).   Vefurinn á að endurspegla þá verkkunnáttu sem þið hafið öðlast í áfanganum ásamt fyrri áfanga, VEFÞ1.  
 #### Gerum ráð fyrir á ráðstefnan eða viðburðurinn sé haldin á sumarmánuðum.
