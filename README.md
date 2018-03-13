@@ -3,7 +3,8 @@
 
 [Skráning hópa hér í viðfangsefni -_New Issue_ ](https://github.com/vefhonnun/VEF2-Lokaverkefni-H17/issues/) 
 ### Verklýsing
-Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, listsýningu, hugbúnað, tölvuleik, pólitík eða það sem þér þykir fýsilegt að fjalla um.  Viðburðurinn má vera hvar sem er á íslandi og setjið staðsetningarkort á vefsíðuna.  **Efnisval er frjálst**, og reynið að forðast _“dummy”_ texta (Lorem Ipsum ETC …).   Vefurinn á að endurspegla þá verkkunnáttu sem þið hafið öðlast í áfanganum ásamt fyrri áfanga, VEFÞ1.  
+Útgáfufyrirtæki sem ....   
+Verkefnið  felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, listsýningu, hugbúnað, tölvuleik, pólitík eða það sem þér þykir fýsilegt að fjalla um.  Viðburðurinn má vera hvar sem er á íslandi og setjið staðsetningarkort á vefsíðuna.  **Efnisval er frjálst**, og reynið að forðast _“dummy”_ texta (Lorem Ipsum ETC …).   Vefurinn á að endurspegla þá verkkunnáttu sem þið hafið öðlast í áfanganum ásamt fyrri áfanga, VEFÞ1.  
 #### Gerum ráð fyrir á ráðstefnan eða viðburðurinn sé haldin á sumarmánuðum.
 
 > **Nemendur eiga að nota Git samþáttun í hvert skipti sem unnið er í hópverkefninu.**<br>
