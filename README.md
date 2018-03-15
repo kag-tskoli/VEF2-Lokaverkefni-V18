@@ -13,10 +13,14 @@ Fyritækið er ekki enn búið að marka sér nein einkenni og heiti útgáfufyr
   * Hverjir koma fram
   * Skráning á útgáfutónleikana
   * Vefsíða með upplýsingum um flytjendur
-   * Hver flytjandi er með lagalista 
-   * video eða .mp3 skrá með 1 lagi sem hægt að spila með hverjum flytjanda
- * Tímasetning útgáfutónleikana þarf að koma skýrt fram
- * Viðburðurinn má vera hvar sem er á íslandi, setjið staðsetningarkort á vefsíðuna
+    * Hver flytjandi er með lagalista 
+    * video eða .mp3 skrá með 1 lagi sem hægt að spila með hverjum flytjanda
+  * Tímasetning útgáfutónleikana þarf að koma skýrt fram
+  * Viðburðurinn má vera hvar sem er á íslandi, setjið staðsetningarkort á vefsíðuna
+  * Upplýsingar um fyrirtækið
+    * Hverjir eru Z
+    * Hvað gerir Z
+    * Hvar er Z
  
  **Efnisval er frjálst **, og reynið að forðast _“dummy”_ texta (Lorem Ipsum ETC …). Vefurinn á að endurspegla þá verkkunnáttu sem þið hafið öðlast í áfanganum ásamt fyrri áfanga, VEFÞ1.  
 
