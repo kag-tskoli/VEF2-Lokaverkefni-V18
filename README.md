@@ -45,18 +45,14 @@ Fyritækið er ekki enn búið að marka sér nein einkenni og heiti útgáfufyr
 * Skipulagsvinna í [_"Project"_](https://github.com/vefhonnun/VEF2-Lokaverkefni-H17/projects/1)
   * Skráið **hvað** á að gera í verkefnaáætlun. Gerið tímaáætlun og skráið **hver** á að framkvæma tiltekna verkþætti.
 * Dagbók, notið [_Wiki_](https://github.com/vefhonnun/VEF2-Lokaverkefni-H17/wiki) 
+  * Kynning á hóp
   * Skráið vinnuferlið, hvernig það gengur frá byrjun til enda
   * Viðhald, í lok verkefnisins á að útskýra hvað má gera betur og hver geta verið næstu skref með vefinn (ókláruð virkni, endurbætur o.s.frv.)
-* Prófanir
-  *  Er kóðinn í lagi? Er vefurinn villulaus?  [W3 Markup validation](https://validator.w3.org/)
-* Kynning á hóp
-    * [Setjið vefsíðu á GitHub geymsluna](/leiðbeiningar/vefsida_Github.pdf) sem á að vera kynning á hópnum og verkefninu í stuttu máli.
-    * Veljið merki fyrir hópinn (t.d. _SVG_ mynd)
-    * Setjið inn myndir af ykkur
-    * [Sjá vefdæmi](https://vefhonnun.github.io/VEF2-Lokaverkefni-H17/)
 
 ### Afurð:  Tæknilegar lausnir
-
+* [Setjið vefsíðu á GitHub geymsluna](/leiðbeiningar/vefsida_Github.pdf)
+* [Sjá vefdæmi](https://vefhonnun.github.io/VEF2-Lokaverkefni-H17/)
+* Veljið merki fyrir hópinn ( _SVG_ mynd)
 * Viðmið (_breakpoints_) fyrir mismunandi skjástærðir, _„mobile up“_ -> 30em, 37.5em, 48em, 60em, 80em
 * Myndir í vefsíðum aðlagast mismunandi skjástærðum (notið &lt;picture&gt; tagið)
 * Letur og litanotkun er í samræmi við efni/þema vefsins
@@ -66,7 +62,8 @@ Fyritækið er ekki enn búið að marka sér nein einkenni og heiti útgáfufyr
 * Notandi getur skráð sig á útgáfutónleikana (_form_)
   * **Athugið að það er ekki farið fram á samskipti vefsíðu og miðlara,** einungis er verið að setja upp formið og stíla það
 * Upplýsingar sem skráðar eru í form eru villuprófaðar (_HTML5 validation - required_)
-
+* Prófanir
+  *  Er kóðinn í lagi? Er vefurinn villulaus?  [W3 Markup validation](https://validator.w3.org/)
 ### Námsmat 
 
 * **8% Útgáfustýring - Undirbúningsvinna**
