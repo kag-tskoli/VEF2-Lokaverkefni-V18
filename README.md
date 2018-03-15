@@ -53,10 +53,10 @@ Fyritækið er ekki enn búið að marka sér nein einkenni og heiti útgáfufyr
 ### Afurð:  Tæknilegar lausnir
 * [Setjið vefsíðu á GitHub geymsluna](/leiðbeiningar/vefsida_Github.pdf)
 * [Sjá vefdæmi](https://vefhonnun.github.io/VEF2-Lokaverkefni-H17/)
-* Veljið merki fyrir hópinn ( _SVG_ mynd)
 * Viðmið (_breakpoints_) fyrir mismunandi skjástærðir, _„mobile up“_ -> 30em, 37.5em, 48em, 60em, 80em
 * Myndir í vefsíðum aðlagast mismunandi skjástærðum (notið &lt;picture&gt; tagið)
-* Letur og litanotkun er í samræmi við efni/þema vefsins
+* Firmamerki (_SVG_ mynd)
+* Letur og litanotkun er í samræmi við efni vefsins
 * SCSS stílsíður –> ein CSS stílsíða tengd vefsíðu (_compressed_)
 * Kvikun (_animation, transitions, transform_)
 * Almenn lýsing á viðburði og sundurliðuð dagskrá í töflu
@@ -65,7 +65,9 @@ Fyritækið er ekki enn búið að marka sér nein einkenni og heiti útgáfufyr
 * Upplýsingar sem skráðar eru í form eru villuprófaðar (_HTML5 validation - required_)
 * Prófanir
   *  Er kóðinn í lagi? Er vefurinn villulaus?  [W3 Markup validation](https://validator.w3.org/)
-### Námsmat 
+### Námsmat
+ Nemendur skila verkefninu hver fyrir sig vegna þess að einkunn er metin útfrá vinnuframlagi í Git og verkstjórnun í GitHub.
+ 
 * **8% Útgáfustýring - Undirbúningsvinna**
   *  Greinargerð (í _Readme.md_)
   *  Verkáætlun (_Project - milestones_)
@@ -73,9 +75,7 @@ Fyritækið er ekki enn búið að marka sér nein einkenni og heiti útgáfufyr
   *  Dagbók (_Wiki_)
   *  Heimildaskrá (_Wiki_)
 
-*  **2% Kynning á hóp (vefsíða á GitHub - _docs_)**
-
-* **10%   Afurð - Tæknilegar lausnir**
+* **12%   Afurð - Tæknilegar lausnir**
   * Útlit (_layout_) vel útfært með viðmiðum (_breakpoints_) 
   * Myndir í samræmi við skjástærð (_&lt;picture&gt;_)
   * SVG mynd sem firmamerki (_logo_)
@@ -83,7 +83,8 @@ Fyritækið er ekki enn búið að marka sér nein einkenni og heiti útgáfufyr
   * Kvikun (_animation, transitions, transform_) 
   * Samskiptaform með _HTML5 validation_
   * SCSS/CSS stílsíður
-
+  * **vefsíða á GitHub - _docs_**
+  
 ## Verkefnaskil
   * **Öllum vinnugögnum  er skilað í GitHub geymslu (_repository_)**
     1. Greinargerð um verkefnið
@@ -91,10 +92,9 @@ Fyritækið er ekki enn búið að marka sér nein einkenni og heiti útgáfufyr
     3. Vefurinn með öllum kóða ss. SCSS/CSS, js og php kóða
     4. Textavinnsla og myndir
     5. Dagbók og Heimildaskrá 
-    6. Kynning á hóp í Github vefsíðu
-    7. Afurð/vef er skilað á http://tsuts.tskoli.is/2t/þín-KT/lokaverkefni
+    6. Afurð/vef er skilað á  Github vefsíðu
 
-> Tenglum (link) á vef og geymslu er skilað í INNU. Nemendur skila verkefninu hver fyrir sig vegna þess að einkunn er metin útfrá vinnuframlagi í Git og verkstjórnun í GitHub. <br>
+> Tengli (link) á Github geymslu er skilað í INNU. <br>
 > **Athugið að hópverkefnið er lykilmatsþáttur.**
 
 * _Gangi ykkur vel_
