@@ -14,7 +14,8 @@ Fyritækið er ekki enn búið að marka sér nein einkenni og heiti útgáfufyr
   * Skráning á útgáfutónleikana
   * Upplýsingar um flytjendur
     * Hver flytjandi er með lagalista 
-    * video eða .mp3 skrá með 1 lagi sem hægt að spila með hverjum flytjanda
+    * Hver flytjandi er með skráningarform fyrir aðdáendaklúbb. (Hér er hægt að setja tálbeitu).
+    * video eða .mp3 skrá með a.m.k. 1 lagi sem hægt að spila með hverjum flytjanda
   * Tímasetning útgáfutónleikana þarf að koma skýrt fram og gerum ráð fyrir að viðburðurinn sé haldin á sumarmánuðum.
   * Viðburðurinn má vera hvar sem er á íslandi, setjið staðsetningarkort á vefsíðuna
   * Upplýsingar um fyrirtækið
