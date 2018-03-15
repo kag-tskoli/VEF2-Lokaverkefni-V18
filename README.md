@@ -5,26 +5,25 @@
 ## Verklýsing
 Útgáfufyrirtækið **Z** sem er nýstofnað ætlar að hasla sér völl í tónlistabransanum og stefnir á að halda útgáfutónleika til að kynna starfsemi sína. Fyrirtækið er búið að gera samstarfssamninga við efnilega tónlistarmenn og stefnir á að koma þeim á vinsældalista landsins og síðar að halda út í djúpu laugina og sigra heiminn...
 
-Fyritækið er ekki enn búið að marka sér nein einkenni og heiti útgáfufyritækisins **Z** er enn til á vinnslustigi. Ykkar hlutverk er að skipuleggja og hanna eftrifarandi þætti:
+Fyritækið er ekki enn búið að marka sér nein einkenni og heiti útgáfufyritækisins **Z** er enn á vinnslustigi. Ykkar hlutverk er að skipuleggja og hanna eftrifarandi þætti:
 * Firmamerki - með nýju heiti
 * Útgáfufyrirtækið sérhæfir sig í útgáfu á (_tónlistarstefnu sem þið ákveðið_)
-* Vefsíðu fyrir útgáfutónleikana
+* Vef fyrir útgáfutónleikana
   * Á vefnum á að vera hægt að sjá dagskrá
   * Hverjir koma fram
   * Skráning á útgáfutónleikana
-  * Vefsíða með upplýsingum um flytjendur
+  * Upplýsingar um flytjendur
     * Hver flytjandi er með lagalista 
     * video eða .mp3 skrá með 1 lagi sem hægt að spila með hverjum flytjanda
-  * Tímasetning útgáfutónleikana þarf að koma skýrt fram
+  * Tímasetning útgáfutónleikana þarf að koma skýrt fram og gerum ráð fyrir að viðburðurinn sé haldin á sumarmánuðum.
   * Viðburðurinn má vera hvar sem er á íslandi, setjið staðsetningarkort á vefsíðuna
   * Upplýsingar um fyrirtækið
     * Hverjir eru Z
     * Hvað gerir Z
     * Hvar er Z
+  * **Efnisval er að öðru leyti frjálst**, reynið að forðast _“dummy”_ texta (Lorem Ipsum ETC …). 
  
- **Efnisval er frjálst **, og reynið að forðast _“dummy”_ texta (Lorem Ipsum ETC …). Vefurinn á að endurspegla þá verkkunnáttu sem þið hafið öðlast í áfanganum ásamt fyrri áfanga, VEFÞ1.  
-
-#### Gerum ráð fyrir að viðburðurinn sé haldin á sumarmánuðum.
+ #### Vefurinn á að endurspegla þá verkkunnáttu sem þið hafið öðlast í áfanganum ásamt fyrri áfanga, VEFÞ1.  
 
 > **Nemendur eiga að nota Git samþáttun í hvert skipti sem unnið er í hópverkefninu.**<br>
 > Afurð er metin útfrá vinnuframlagi í Git og verkstjórnun í GitHub.
