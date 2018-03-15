@@ -35,9 +35,9 @@ Fyritækið er ekki enn búið að marka sér nein einkenni og heiti útgáfufyr
 ### Útgáfustýring:  Verkstjórn og greinargerð um vinnuferlið.
 
 * Gerið grein fyrir eftirtöldum atriðum í _README.md_ 
-  * Um hvað er vefurinn?   
-  * Hver er markhópurinn og markmið með gerð vefsins
-  * Setjið tengla sem vísa á hópsíðu og afurð
+  * Stutt kynning á útgáfufyritækinu, hver er stefna þess   
+  * Hver er markhópur fyrirtækisins og markmið með útgáfutónleikunum
+  * Setjið tengil sem vísar á vefinn.
 * Efnisöflun og hugmyndavinna í [_"Project"_](https://github.com/vefhonnun/VEF2-Lokaverkefni-H17/projects/1)
   * Skráið allar hugmyndir  
   * Skoðið hvað aðrir hafa gert, safnið saman fyrirmyndum ss tenglum á áhugaverðar vefsíður
@@ -46,7 +46,7 @@ Fyritækið er ekki enn búið að marka sér nein einkenni og heiti útgáfufyr
 * Skipulagsvinna í [_"Project"_](https://github.com/vefhonnun/VEF2-Lokaverkefni-H17/projects/1)
   * Skráið **hvað** á að gera í verkefnaáætlun. Gerið tímaáætlun og skráið **hver** á að framkvæma tiltekna verkþætti.
 * Dagbók, notið [_Wiki_](https://github.com/vefhonnun/VEF2-Lokaverkefni-H17/wiki) 
-  * Kynning á hóp
+  * Kynning - nöfn ofl. 
   * Skráið vinnuferlið, hvernig það gengur frá byrjun til enda
   * Viðhald, í lok verkefnisins á að útskýra hvað má gera betur og hver geta verið næstu skref með vefinn (ókláruð virkni, endurbætur o.s.frv.)
 
@@ -66,7 +66,6 @@ Fyritækið er ekki enn búið að marka sér nein einkenni og heiti útgáfufyr
 * Prófanir
   *  Er kóðinn í lagi? Er vefurinn villulaus?  [W3 Markup validation](https://validator.w3.org/)
 ### Námsmat 
-
 * **8% Útgáfustýring - Undirbúningsvinna**
   *  Greinargerð (í _Readme.md_)
   *  Verkáætlun (_Project - milestones_)
