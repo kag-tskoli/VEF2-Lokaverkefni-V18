@@ -5,11 +5,22 @@
 ## Verklýsing
 Útgáfufyrirtækið **Z** sem er nýstofnað ætlar að hasla sér völl í tónlistabransanum og stefnir á að halda útgáfutónleika til að kynna starfsemi sína. Fyrirtækið er búið að gera samstarfssamninga við efnilega tónlistarmenn og stefnir á að koma þeim á vinsældalista landsins og síðar að halda út í djúpu laugina og sigra heiminn...
 
-Ykkar verkefni felst í að skipuleggja og hanna vefsíðu(r) um viðburðin. Fyritækið er ekki enn búið að marka sér nein einkenni og heiti útgáfufyritækisins **Z** er enn til á vinnslustigi. Ykkar hlutverk er að koma með 
+Fyritækið er ekki enn búið að marka sér nein einkenni og heiti útgáfufyritækisins **Z** er enn til á vinnslustigi. Ykkar hlutverk er að skipuleggja og hanna eftrifarandi þætti:
+* Firmamerki - með nýju heiti
+* Útgáfufyrirtækið sérhæfir sig í útgáfu á (_tónlistarstefnu sem þið ákveðið_)
+* Vefsíðu fyrir útgáfutónleikana
+ * Á vefnum á að vera hægt að sjá dagskrá
+ * Hverjir koma fram
+ * Skráning á útgáfutónleikana
+ * Vefsíða með upplýsingum um flytjendur
+  * Hver flytjandi er með lagalista 
+  * video eða .mp3 skrá með 1 lagi sem hægt að spila með hverjum flytjanda
+ * Tímasetning útgáfutónleikana þarf að koma skýrt fram
+ * Viðburðurinn má vera hvar sem er á íslandi, setjið staðsetningarkort á vefsíðuna
+ 
+ **Efnisval er frjálst **, og reynið að forðast _“dummy”_ texta (Lorem Ipsum ETC …). Vefurinn á að endurspegla þá verkkunnáttu sem þið hafið öðlast í áfanganum ásamt fyrri áfanga, VEFÞ1.  
 
-ss tónleika, keppni, listsýningu, hugbúnað, tölvuleik, pólitík eða það sem þér þykir fýsilegt að fjalla um.  Viðburðurinn má vera hvar sem er á íslandi og setjið staðsetningarkort á vefsíðuna.  **Efnisval er frjálst**, og reynið að forðast _“dummy”_ texta (Lorem Ipsum ETC …).   Vefurinn á að endurspegla þá verkkunnáttu sem þið hafið öðlast í áfanganum ásamt fyrri áfanga, VEFÞ1.  
-
-#### Gerum ráð fyrir á ráðstefnan eða viðburðurinn sé haldin á sumarmánuðum.
+#### Gerum ráð fyrir að viðburðurinn sé haldin á sumarmánuðum.
 
 > **Nemendur eiga að nota Git samþáttun í hvert skipti sem unnið er í hópverkefninu.**<br>
 > Afurð er metin útfrá vinnuframlagi í Git og verkstjórnun í GitHub.
@@ -49,7 +60,7 @@ ss tónleika, keppni, listsýningu, hugbúnað, tölvuleik, pólitík eða það
 * SCSS stílsíður –> ein CSS stílsíða tengd vefsíðu (_compressed_)
 * Kvikun (_animation, transitions, transform_)
 * Almenn lýsing á viðburði og sundurliðuð dagskrá í töflu
-* Notandi getur skráð sig á fyrirlestra, atburði eða tónleika sem eru í boði (_form_)
+* Notandi getur skráð sig á útgáfutónleikana (_form_)
   * **Athugið að það er ekki farið fram á samskipti vefsíðu og miðlara,** einungis er verið að setja upp formið og stíla það
 * Upplýsingar sem skráðar eru í form eru villuprófaðar (_HTML5 validation - required_)
 
