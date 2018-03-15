@@ -9,12 +9,12 @@ Fyritækið er ekki enn búið að marka sér nein einkenni og heiti útgáfufyr
 * Firmamerki - með nýju heiti
 * Útgáfufyrirtækið sérhæfir sig í útgáfu á (_tónlistarstefnu sem þið ákveðið_)
 * Vefsíðu fyrir útgáfutónleikana
- * Á vefnum á að vera hægt að sjá dagskrá
- * Hverjir koma fram
- * Skráning á útgáfutónleikana
- * Vefsíða með upplýsingum um flytjendur
-  * Hver flytjandi er með lagalista 
-  * video eða .mp3 skrá með 1 lagi sem hægt að spila með hverjum flytjanda
+  * Á vefnum á að vera hægt að sjá dagskrá
+  * Hverjir koma fram
+  * Skráning á útgáfutónleikana
+  * Vefsíða með upplýsingum um flytjendur
+   * Hver flytjandi er með lagalista 
+   * video eða .mp3 skrá með 1 lagi sem hægt að spila með hverjum flytjanda
  * Tímasetning útgáfutónleikana þarf að koma skýrt fram
  * Viðburðurinn má vera hvar sem er á íslandi, setjið staðsetningarkort á vefsíðuna
  
