@@ -2,9 +2,13 @@
 ### Hópverkefni, hópastærð: 2 nemendur.
 
 [Skráning hópa hér í viðfangsefni -_New Issue_ ](https://github.com/vefhonnun/VEF2-Lokaverkefni-H17/issues/) 
-### Verklýsing
-Útgáfufyrirtæki sem ....   
-Verkefnið  felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, listsýningu, hugbúnað, tölvuleik, pólitík eða það sem þér þykir fýsilegt að fjalla um.  Viðburðurinn má vera hvar sem er á íslandi og setjið staðsetningarkort á vefsíðuna.  **Efnisval er frjálst**, og reynið að forðast _“dummy”_ texta (Lorem Ipsum ETC …).   Vefurinn á að endurspegla þá verkkunnáttu sem þið hafið öðlast í áfanganum ásamt fyrri áfanga, VEFÞ1.  
+## Verklýsing
+Útgáfufyrirtækið **Z** sem er nýstofnað ætlar að hasla sér völl í tónlistabransanum og stefnir á að halda útgáfutónleika til að kynna starfsemi sína. Fyrirtækið er búið að gera samstarfssamninga við efnilega tónlistarmenn og stefnir á að koma þeim á vinsældalista landsins og síðar að halda út í djúpu laugina og sigra heiminn...
+
+Ykkar verkefni felst í að skipuleggja og hanna vefsíðu(r) um viðburðin. Fyritækið er ekki enn búið að marka sér nein einkenni og heiti útgáfufyritækisins **Z** er enn til á vinnslustigi. Ykkar hlutverk er að koma með 
+
+ss tónleika, keppni, listsýningu, hugbúnað, tölvuleik, pólitík eða það sem þér þykir fýsilegt að fjalla um.  Viðburðurinn má vera hvar sem er á íslandi og setjið staðsetningarkort á vefsíðuna.  **Efnisval er frjálst**, og reynið að forðast _“dummy”_ texta (Lorem Ipsum ETC …).   Vefurinn á að endurspegla þá verkkunnáttu sem þið hafið öðlast í áfanganum ásamt fyrri áfanga, VEFÞ1.  
+
 #### Gerum ráð fyrir á ráðstefnan eða viðburðurinn sé haldin á sumarmánuðum.
 
 > **Nemendur eiga að nota Git samþáttun í hvert skipti sem unnið er í hópverkefninu.**<br>
