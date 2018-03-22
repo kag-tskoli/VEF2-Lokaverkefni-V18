@@ -86,11 +86,11 @@ Fyritækið er ekki enn búið að marka sér nein einkenni og heiti útgáfufyr
   * **vefsíða á GitHub - _docs_**
   
 ## Verkefnaskil
-  * **Öllum vinnugögnum  er skilað í GitHub geymslu (_repository_)**
+  * **Vinnugögnum er skilað í GitHub geymslu (_repository_)**
     1. Greinargerð um verkefnið
     2. Hugmyndavinnu (skissur ofl). Skipulag (_layout_)
-    3. Vefurinn með öllum kóða ss. SCSS/CSS, js og php kóða
-    4. Textavinnsla og myndir
+    3. Öllum texta og myndum 
+    4. Forritunarkóða ss. SCSS/CSS, PhP eða Python kóða
     5. Dagbók og Heimildaskrá 
     6. Afurð/vef er skilað á  Github vefsíðu
 
