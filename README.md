@@ -52,7 +52,7 @@ Fyritækið er ekki enn búið að marka sér nein einkenni og heiti útgáfufyr
 
 ### Afurð:  Tæknilegar lausnir
 * [Setjið vefsíðu á GitHub geymsluna](/leiðbeiningar/vefsida_Github.pdf)
-* [Sjá vefdæmi](https://vefhonnun.github.io/VEF2-Lokaverkefni-H17/)
+* [Sjá vefdæmi](https://vefhonnun.github.io/VEF2-Lokaverkefni-V18/)
 * Viðmið (_breakpoints_) fyrir mismunandi skjástærðir, _„mobile up“_ -> 30em, 37.5em, 48em, 60em, 80em
 * Myndir í vefsíðum aðlagast mismunandi skjástærðum (notið &lt;picture&gt; tagið)
 * Firmamerki (_SVG_ mynd)
