@@ -3,7 +3,7 @@
 
 [Skráning hópa hér í viðfangsefni -_New Issue_ ](https://github.com/vefhonnun/VEF2-Lokaverkefni-H17/issues/) 
 ## Verklýsing
-Útgáfufyrirtækið **Z** sem er nýstofnað ætlar að hasla sér völl í tónlistabransanum og stefnir á að halda útgáfutónleika til að kynna starfsemi sína. Fyrirtækið er búið að gera samstarfssamninga við efnilega tónlistarmenn og stefnir á að koma þeim á vinsældalista landsins og síðar að halda út í djúpu laugina og sigra heiminn...
+Útgáfufyrirtækið **Z** sem er nýstofnað ætlar að hasla sér völl í tónlistabransanum og stefnir á að halda útgáfutónleika til að kynna starfsemi sína. Fyrirtækið er búið að gera samstarfssamninga við efnilega tónlistarmenn og stefnir á að koma þeim á vinsældalista landsins og síðar að halda út í djúpu laugina og sigra heiminn... :rocket:
 
 Fyritækið er ekki enn búið að marka sér nein einkenni og heiti útgáfufyritækisins **Z** er enn á vinnslustigi. Ykkar hlutverk er að skipuleggja og hanna eftrifarandi þætti:
 * Firmamerki - með nýju heiti
@@ -97,5 +97,5 @@ Fyritækið er ekki enn búið að marka sér nein einkenni og heiti útgáfufyr
 > Tengli (link) á Github geymslu er skilað í INNU. <br>
 > **Athugið að hópverkefnið er lykilmatsþáttur.**
 
-* _Gangi ykkur vel_
+* _Gangi ykkur vel_  :wink:
 
