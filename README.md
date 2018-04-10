@@ -68,28 +68,34 @@ Fyritækið er ekki enn búið að marka sér nein einkenni og heiti útgáfufyr
 ### Námsmat
  Nemendur skila verkefninu hver fyrir sig vegna þess að einkunn er metin útfrá vinnuframlagi í Git og verkstjórnun í GitHub.
  
-* **8% Útgáfustýring - Undirbúningsvinna**
+* **10% Útgáfustýring - Undirbúningsvinna**
   *  Greinargerð (í _Readme.md_)
   *  Verkáætlun (_Project - milestones_)
   *  Efnisöflun og skipulag (_Project_)  
   *  Dagbók (_Wiki_)
   *  Heimildaskrá (_Wiki_)
 
-* **12%   Afurð - Tæknilegar lausnir**
+* **15%   Afurð - Tæknilegar lausnir**
   * Útlit (_layout_) vel útfært með viðmiðum (_breakpoints_) 
   * Myndir í samræmi við skjástærð (_&lt;picture&gt;_)
   * SVG mynd sem firmamerki (_logo_)
-  * Samræmi í letur og litanotkun 
   * Kvikun (_animation, transitions, transform_) 
   * Samskiptaform með _HTML5 validation_
   * SCSS/CSS stílsíður
   * **vefsíða á GitHub - _docs_**
+
+* **10%   Afurð - Hönnun**
+  * Útlit hæfir efni vefsins
+  * Samræmi í letur og litanotkun
+  * Skilmerkileg umfjöllun um tónlist og flytjendur 
+  * Viðburðir og tilboð 
+  * Hljóðskrár (_.mp3_) og kvikmyndir (_Youtube_)
   
 ## Verkefnaskil
   * **Vinnugögnum er skilað í GitHub geymslu (_repository_)**
     1. Greinargerð um verkefnið
     2. Hugmyndavinnu (skissur ofl). Skipulag (_layout_)
-    3. Öllum texta og myndum 
+    3. Texta og myndir sem þið vinnið með.
     4. Forritunarkóða ss. SCSS/CSS, PhP eða Python kóða
     5. Dagbók og Heimildaskrá 
     6. Afurð/vef er skilað á  Github vefsíðu
