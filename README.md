@@ -1,7 +1,7 @@
 # VEFÞ2 Lokaverkefni Vor 2018
 ### Hópverkefni, hópastærð: 2 nemendur.
 
-[Skráning hópa hér í viðfangsefni -_New Issue_ ](https://github.com/vefhonnun/VEF2-Lokaverkefni-H17/issues/) 
+[Skráning hópa hér í viðfangsefni -_New Issue_ ](https://github.com/kag-tskoli/VEF2-Lokaverkefni-V18/issues/) 
 ## Verklýsing
 Útgáfufyrirtækið **Z** sem er nýstofnað ætlar að hasla sér völl í tónlistabransanum og stefnir á að halda útgáfutónleika til að kynna starfsemi sína. Fyrirtækið er búið að gera samstarfssamninga við efnilega tónlistarmenn og stefnir á að koma þeim á vinsældalista landsins og síðar að halda út í djúpu laugina og sigra heiminn... :rocket:
 
